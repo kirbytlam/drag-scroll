@@ -1,6 +1,6 @@
 #include <ApplicationServices/ApplicationServices.h>
 
-#define DEFAULT_BUTTON 5
+#define DEFAULT_BUTTON 3
 #define DEFAULT_KEYS kCGEventFlagMaskShift
 #define DEFAULT_SPEED 3
 #define MAX_KEY_COUNT 5
